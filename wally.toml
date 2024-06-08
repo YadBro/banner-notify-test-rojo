@@ -1,0 +1,8 @@
+[package]
+name = "yadi/banner-notify-test-rojo"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+banner-notify = "yadbro/banner-notify@1.4.0"
